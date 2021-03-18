@@ -43,7 +43,6 @@ size_t my_strlen(const char *str)
 int main()
 {
     char src[SIZE];		//char array for source string
-    char src1[SIZE];		//char array for source string
     size_t len = 0;
 
     printf("Enter Source String      : ");
